@@ -12,3 +12,6 @@ Thumbs.db
 ## Build
 *.log
 *.pdb
+
+## Installer
+installer/
