@@ -1,0 +1,14 @@
+## Rust
+/target/
+
+## IDE
+.vscode/
+.idea/
+
+## OS
+Thumbs.db
+.DS_Store
+
+## Build
+*.log
+*.pdb
